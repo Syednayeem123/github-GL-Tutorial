@@ -1,4 +1,12 @@
+<!DOCTYPE html>
 <html>
-  <title>This is my awesome website</title>
-    <h1> welcome to my awsome website</h1>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
 </html>
